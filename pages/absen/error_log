@@ -1,0 +1,266 @@
+[23-Jan-2016 19:12:25 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/searchsiswa.php on line 12
+[23-Jan-2016 19:12:29 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/searchsiswa.php on line 12
+[13-Mar-2016 18:12:55 Asia/Jakarta] PHP Warning:  include(../../PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:12:55 Asia/Jakarta] PHP Warning:  include(../../PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:12:55 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:12:55 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 19
+[13-Mar-2016 18:13:46 Asia/Jakarta] PHP Warning:  include(../Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:13:46 Asia/Jakarta] PHP Warning:  include(../Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:13:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '../Classes/PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:13:46 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 19
+[13-Mar-2016 18:13:48 Asia/Jakarta] PHP Warning:  include(../Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:13:48 Asia/Jakarta] PHP Warning:  include(../Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:13:48 Asia/Jakarta] PHP Warning:  include(): Failed opening '../Classes/PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:13:48 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 19
+[13-Mar-2016 18:13:55 Asia/Jakarta] PHP Warning:  include(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:13:55 Asia/Jakarta] PHP Warning:  include(Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:13:55 Asia/Jakarta] PHP Warning:  include(): Failed opening 'Classes/PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:13:55 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 19
+[13-Mar-2016 18:14:07 Asia/Jakarta] PHP Warning:  include(../../Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:14:07 Asia/Jakarta] PHP Warning:  include(../../Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:14:07 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../Classes/PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:14:07 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 19
+[13-Mar-2016 18:14:09 Asia/Jakarta] PHP Warning:  include(../../Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:14:09 Asia/Jakarta] PHP Warning:  include(../../Classes/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:14:09 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../Classes/PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[13-Mar-2016 18:14:09 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 19
+[13-Mar-2016 18:15:33 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on a non-object in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 76
+[13-Mar-2016 18:24:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '.' in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 82
+[13-Mar-2016 18:55:45 Asia/Jakarta] PHP Warning:  include(../../common/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:55:45 Asia/Jakarta] PHP Warning:  include(../../common/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:55:45 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../common/PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:55:45 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 16
+[13-Mar-2016 18:57:00 Asia/Jakarta] PHP Warning:  include(../../common/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:57:00 Asia/Jakarta] PHP Warning:  include(../../common/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:57:00 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../common/PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:57:00 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 16
+[13-Mar-2016 18:58:06 Asia/Jakarta] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:58:06 Asia/Jakarta] PHP Warning:  include(https://absen.daarululuumlido.com/common/PHPExcel.php): failed to open stream: no suitable wrapper could be found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:58:06 Asia/Jakarta] PHP Warning:  include(): Failed opening 'https://absen.daarululuumlido.com/common/PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:58:06 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 16
+[13-Mar-2016 18:58:40 Asia/Jakarta] PHP Warning:  include(absen.daarululuumlido.com/common/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:58:40 Asia/Jakarta] PHP Warning:  include(absen.daarululuumlido.com/common/PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:58:40 Asia/Jakarta] PHP Warning:  include(): Failed opening 'absen.daarululuumlido.com/common/PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:58:40 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 16
+[13-Mar-2016 18:59:22 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:59:22 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:59:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 18:59:22 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 16
+[13-Mar-2016 19:00:22 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:00:22 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:00:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:00:22 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 16
+[13-Mar-2016 19:01:13 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:01:13 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:01:13 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:01:13 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 16
+[13-Mar-2016 19:01:16 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:01:16 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:01:16 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:01:16 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 16
+[13-Mar-2016 19:01:47 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:01:47 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:01:47 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:01:47 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 16
+[13-Mar-2016 19:10:42 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:10:42 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:10:42 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:10:42 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 16
+[13-Mar-2016 19:23:13 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:13 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:13 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'PHPExcel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:45 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:45 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:45 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'PHPExcel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:49 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:49 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:49 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'PHPExcel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:50 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:50 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:50 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'PHPExcel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:51 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:51 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:51 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'PHPExcel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:52 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:52 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:23:52 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'PHPExcel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:44:13 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:44:13 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:44:13 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'PHPExcel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:44:15 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:44:15 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:44:15 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'PHPExcel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 13
+[13-Mar-2016 19:44:54 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 14
+[13-Mar-2016 19:44:54 Asia/Jakarta] PHP Warning:  require(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 14
+[13-Mar-2016 19:44:54 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required 'PHPExcel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 14
+[13-Mar-2016 19:45:18 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 14
+[13-Mar-2016 19:45:18 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 14
+[13-Mar-2016 19:45:18 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 14
+[13-Mar-2016 19:45:18 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 17
+[13-Mar-2016 19:45:39 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 3
+[13-Mar-2016 19:45:39 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 3
+[13-Mar-2016 19:45:39 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 3
+[13-Mar-2016 19:45:39 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 18
+[13-Mar-2016 19:45:41 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 3
+[13-Mar-2016 19:45:41 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 3
+[13-Mar-2016 19:45:41 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 3
+[13-Mar-2016 19:45:41 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 18
+[13-Mar-2016 19:46:34 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 19:46:34 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 19:46:34 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 19:46:34 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 17
+[13-Mar-2016 19:46:35 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 19:46:35 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 19:46:35 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 19:46:35 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 17
+[13-Mar-2016 19:46:36 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 19:46:36 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 19:46:36 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 19:46:36 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 17
+[13-Mar-2016 20:13:03 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:13:03 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:13:03 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:13:03 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 17
+[13-Mar-2016 20:15:43 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:15:43 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:15:43 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:15:43 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 17
+[13-Mar-2016 20:34:37 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:34:37 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:34:37 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:34:37 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 17
+[13-Mar-2016 20:41:03 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:41:04 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:41:04 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:41:04 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 17
+[13-Mar-2016 20:41:07 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:41:07 Asia/Jakarta] PHP Warning:  include(PHPExcel.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:41:07 Asia/Jakarta] PHP Warning:  include(): Failed opening 'PHPExcel.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 2
+[13-Mar-2016 20:41:07 Asia/Jakarta] PHP Fatal error:  Class 'PHPExcel' not found in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 17
+[14-Mar-2016 01:53:12 Asia/Jakarta] PHP Fatal error:  Call to undefined method mysqli_result::mysql_fetch_array() in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 91
+[14-Mar-2016 01:56:44 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 91
+[18-Mar-2016 23:44:29 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/daarulul/public_html/absen/pages/absen/ambilrombel.php on line 13
+[18-Mar-2016 23:53:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 152
+[18-Mar-2016 23:53:32 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 89
+[18-Mar-2016 23:53:32 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 89
+[18-Mar-2016 23:53:32 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[18-Mar-2016 23:53:32 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 120
+[18-Mar-2016 23:53:55 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 89
+[18-Mar-2016 23:53:55 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 89
+[18-Mar-2016 23:53:55 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[18-Mar-2016 23:53:55 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 120
+[18-Mar-2016 23:54:37 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 87
+[18-Mar-2016 23:54:37 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 87
+[18-Mar-2016 23:54:37 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 116
+[18-Mar-2016 23:54:37 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[18-Mar-2016 23:54:38 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 87
+[18-Mar-2016 23:54:38 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 87
+[18-Mar-2016 23:54:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 116
+[18-Mar-2016 23:54:38 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[18-Mar-2016 23:56:36 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[18-Mar-2016 23:56:36 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[18-Mar-2016 23:56:36 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 120
+[18-Mar-2016 23:56:36 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 122
+[18-Mar-2016 23:58:40 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[18-Mar-2016 23:58:40 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[18-Mar-2016 23:58:40 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 120
+[18-Mar-2016 23:58:40 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 122
+[18-Mar-2016 23:59:20 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[18-Mar-2016 23:59:20 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[18-Mar-2016 23:59:20 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 120
+[19-Mar-2016 00:00:11 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 114
+[19-Mar-2016 00:00:11 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 114
+[19-Mar-2016 00:00:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 116
+[19-Mar-2016 00:00:12 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 114
+[19-Mar-2016 00:00:12 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 114
+[19-Mar-2016 00:00:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 116
+[19-Mar-2016 00:00:13 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 114
+[19-Mar-2016 00:00:13 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 114
+[19-Mar-2016 00:00:13 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 116
+[19-Mar-2016 00:00:13 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 114
+[19-Mar-2016 00:00:13 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 114
+[19-Mar-2016 00:00:13 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 116
+[19-Mar-2016 00:00:13 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 114
+[19-Mar-2016 00:00:13 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 114
+[19-Mar-2016 00:00:13 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 116
+[19-Mar-2016 00:01:33 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 119
+[19-Mar-2016 00:01:33 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 119
+[19-Mar-2016 00:01:33 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 121
+[19-Mar-2016 00:02:15 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 119
+[19-Mar-2016 00:02:15 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 119
+[19-Mar-2016 00:02:15 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 121
+[19-Mar-2016 00:06:54 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[19-Mar-2016 00:06:54 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[19-Mar-2016 00:06:54 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 120
+[20-Mar-2016 08:57:47 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 115
+[20-Mar-2016 08:57:47 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 115
+[20-Mar-2016 08:57:47 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 117
+[20-Mar-2016 08:58:41 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[20-Mar-2016 08:58:41 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 118
+[20-Mar-2016 08:58:41 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 120
+[21-Mar-2016 13:40:30 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[30-Mar-2016 15:46:16 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'cepi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/lapsiswaharian.php on line 42
+[30-Mar-2016 15:46:16 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/lapsiswaharian.php on line 42
+[30-Mar-2016 15:46:16 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/daarulul/public_html/absen/pages/absen/lapsiswaharian.php on line 44
+[30-Mar-2016 15:46:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/daarulul/public_html/absen/pages/absen/lapsiswaharian.php on line 12
+[30-Mar-2016 16:50:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$s' (T_VARIABLE), expecting ',' or ';' in /home/daarulul/public_html/absen/pages/absen/lapsiswaharian.php on line 150
+[30-Mar-2016 16:50:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$s' (T_VARIABLE), expecting ',' or ';' in /home/daarulul/public_html/absen/pages/absen/lapsiswaharian.php on line 150
+[04-Apr-2016 10:40:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$rw1' (T_VARIABLE) in /home/daarulul/public_html/absen/pages/absen/lapsiswaharian.php on line 51
+[17-Apr-2016 19:20:12 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[17-Apr-2016 19:20:21 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[17-Apr-2016 19:22:20 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[17-Apr-2016 19:40:25 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[20-Apr-2016 08:54:40 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 15
+[20-Apr-2016 08:56:20 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 16
+[20-Apr-2016 08:56:22 Asia/Jakarta] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 16
+[20-Apr-2016 08:59:00 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on a non-object in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 195
+[20-Apr-2016 10:15:36 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on a non-object in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 195
+[02-May-2016 09:16:36 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on a non-object in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 195
+[02-May-2016 09:21:51 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on a non-object in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 148
+[02-May-2016 09:30:42 Asia/Jakarta] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 148
+[02-May-2016 09:31:50 Asia/Jakarta] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 148
+[02-May-2016 09:31:53 Asia/Jakarta] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 148
+[02-May-2016 09:35:23 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 149
+[02-May-2016 09:35:23 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 149
+[02-May-2016 09:35:23 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 152
+[02-May-2016 09:36:25 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 144
+[02-May-2016 09:36:25 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 144
+[02-May-2016 09:36:25 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 147
+[02-May-2016 09:36:26 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 144
+[02-May-2016 09:36:26 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 144
+[02-May-2016 09:36:26 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 147
+[02-May-2016 09:36:28 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 144
+[02-May-2016 09:36:28 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 144
+[02-May-2016 09:36:28 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 147
+[02-May-2016 09:39:34 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on a non-object in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 135
+[02-May-2016 09:39:39 Asia/Jakarta] PHP Fatal error:  Call to a member function query() on a non-object in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 135
+[02-May-2016 09:43:37 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 129
+[02-May-2016 09:43:37 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 129
+[02-May-2016 09:43:37 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 132
+[02-May-2016 09:43:39 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 129
+[02-May-2016 09:43:39 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 129
+[02-May-2016 09:43:39 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 132
+[02-May-2016 09:43:41 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 129
+[02-May-2016 09:43:41 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 129
+[02-May-2016 09:43:41 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 132
+[02-May-2016 09:46:41 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[02-May-2016 09:46:41 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[02-May-2016 09:46:41 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 128
+[02-May-2016 09:46:45 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[02-May-2016 09:46:45 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[02-May-2016 09:46:45 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 128
+[02-May-2016 09:47:28 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[02-May-2016 09:47:28 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[02-May-2016 09:47:28 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 128
+[02-May-2016 09:47:29 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[02-May-2016 09:47:29 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[02-May-2016 09:47:29 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 128
+[02-May-2016 09:47:32 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[02-May-2016 09:47:32 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[02-May-2016 09:47:32 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 128
+[02-May-2016 09:47:33 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'wandi'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[02-May-2016 09:47:33 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[02-May-2016 09:47:33 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 128
+[28-May-2016 12:11:41 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'daarulul'@'localhost' (using password: NO) in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[28-May-2016 12:11:41 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 125
+[28-May-2016 12:11:41 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/daarulul/public_html/absen/pages/absen/exportexcel.php on line 128

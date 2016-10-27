@@ -1,0 +1,14 @@
+{
+  "transport": "ftp",
+  "uploadOnSave": true,
+  "deleteLocal": false,
+  "hostname": "daarululuumlido.com",
+  "port": "21",
+  "target": "www/absen/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "daarulul",
+  "password": "aneka24061996"
+}

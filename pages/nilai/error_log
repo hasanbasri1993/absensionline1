@@ -1,0 +1,8 @@
+[14-Mar-2016 21:24:15 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daarulul/public_html/absen/pages/nilai/dbcontroller.php on line 26
+[14-Mar-2016 21:33:47 Asia/Jakarta] PHP Warning:  include(../common/header.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/nilai/inputnilai.php on line 2
+[14-Mar-2016 21:33:47 Asia/Jakarta] PHP Warning:  include(../common/header.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/pages/nilai/inputnilai.php on line 2
+[14-Mar-2016 21:33:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../common/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/pages/nilai/inputnilai.php on line 2
+[14-Mar-2016 21:33:47 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/daarulul/public_html/absen/pages/nilai/dbcontroller.php on line 26
+[14-Mar-2016 21:34:12 Asia/Jakarta] PHP Warning:  include(../common/nav.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/common/header.php on line 233
+[14-Mar-2016 21:34:12 Asia/Jakarta] PHP Warning:  include(../common/nav.php): failed to open stream: No such file or directory in /home/daarulul/public_html/absen/common/header.php on line 233
+[14-Mar-2016 21:34:12 Asia/Jakarta] PHP Warning:  include(): Failed opening '../common/nav.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/daarulul/public_html/absen/common/header.php on line 233

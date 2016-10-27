@@ -1,0 +1,35 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+
+page[size='A6'] {
+    background: white;
+    width: 103mm;
+    height: 148mm;
+    display: block;
+    margin:2mm 2mm 2mm 2mm;
+    padding:2mm 2mm 2mm 2mm;
+
+    box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
+}
+
+@page {
+  margin:2mm 2mm 2mm 2mm;
+  padding:2mm 2mm 2mm 2mm;
+}
+.arab{
+  font-family: 'Droid Arabic Naskh', serif;
+  direction: rtl;
+  unicode-bidi: bidi-override;
+
+}
+.kop{
+  text-align: center;
+  color:#3906CA;
+}
+
+.tra{
+border-style:solid;border-color: #b94a48;
+}
+p{
+  font-size: 8.3pt;
+  line-height:1em;
+}
